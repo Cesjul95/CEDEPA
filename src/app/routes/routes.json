@@ -1,0 +1,17 @@
+{
+	"home": {
+		"path": "/home",
+		"typeLayout": "home",
+		"enable": true
+	},
+	"buys": {
+		"path": "/buys",
+		"typeLayout": "private",
+		"enable": true
+	},
+	"cars": {
+		"path": "/cars",
+		"typeLayout": "public",
+		"enable": false
+	}
+}
